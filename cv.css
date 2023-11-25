@@ -1,0 +1,33 @@
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s;
+}
+
+.carde:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s;
+    background-color: rgb(105, 167, 175);
+    
+}
+.carde {
+    background-color: #17a2b8;
+    color: white;
+}
+
+.folio:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s;
+    background-color: rgb(203, 37, 76);
+    
+}
+.folio {
+    background-color: #17a2b8;
+    color: white;
+}
+.bg-form {
+    background-image: url(back.jpg);
+    background-attachment: fixed;
+    margin-bottom: 2rem;
+    color: white;
+    font-weight: bold;
+}
